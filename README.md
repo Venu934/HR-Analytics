@@ -73,6 +73,6 @@ Tables used:
 ---
 
 ## 👤 Author
-**Rama Rao**  
+**Kondaveety Venugopala Swamy**  
 Aspiring Data Analyst | SQL | Data Analytics
 
